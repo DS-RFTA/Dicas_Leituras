@@ -5,7 +5,7 @@ No dia a dia do desenvolvimento profissional, é fácil cair na armadilha de foc
 
 Três livros que, embora pareçam universos totalmente diferentes, formam o combo perfeito para quem deseja evoluir a mentalidade, a disciplina e a capacidade analítica:
 
-<img width="80" height="60" alt="Deixa pra Lá A Teoria Let Them, de Mel Robbins1" src="https://github.com/user-attachments/assets/96ddd613-609e-4469-ba7d-37cbf37b4e17" />
+<img width="180" height="160" alt="Deixa pra Lá A Teoria Let Them, de Mel Robbins1" src="https://github.com/user-attachments/assets/96ddd613-609e-4469-ba7d-37cbf37b4e17" />
 
 1️⃣ "Deixa pra lá: A teoria Let Them" – Mel Robbins & Sawyer Robbins
 A lição: Inteligência Emocional e Foco no que importa.
